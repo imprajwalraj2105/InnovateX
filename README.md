@@ -1,30 +1,22 @@
 # Manipal Hackathon 2024 README Template
 
-**Team Name:** `<Insert Team Name>`
+**Team Name:** InnovateX
 
-**Problem Statement:** `<Insert Problem Statement>`
+**Problem Statement:** R1 - Enhancing Object Recognition for the Visually Impaired
 
 ## 📜 Introduction
 
-Our project allows `<insert consumer segment>` to do A, B and C by D, E and F. We have utilised X, Y and Z technologies to do P, Q and R.
+Our project allows visually impaired to lead their day-to-day life easily. We have used YoloV11 for Object Recognition which runs through a mobile application made with React-Native and A Voice-Assitance for accessability features.
 
 ## ✨ Features
 
 App:
 
--   Ultra cool feature #1
--   Pro max feature #2
--   Feature #3
+-   YoloV11 for Object Recognition
+-   Voice Assistance 
+-   Emergencey Message on Trigger
 
-Website:
 
--   Ultra cool feature #1
--   Pro max feature #2
--   Feature #3
-
-## 🟢 Access
-
-🌐 Website link: https://example.com
 
 📱 App's APK file location: [`android/build/my-app.apk`](android/build/my-app.apk)
 
